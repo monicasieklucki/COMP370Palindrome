@@ -2,7 +2,7 @@ import java.util.Locale;
 
 public class Palindrome {
     public static void main(String[] args) {
-    String str = "hannah";
+    String str = "tacocat";
 
     str = str.toLowerCase();
     tellMePal(isPalindrome(str));
